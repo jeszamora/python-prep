@@ -1,0 +1,1 @@
+print('The code concatenates the strings 5 and 10 and returns the string 510')

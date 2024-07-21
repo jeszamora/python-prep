@@ -1,0 +1,1 @@
+print('The code will raise an error because the value being coerced is not an integer')
