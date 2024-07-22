@@ -1,0 +1,1 @@
+# The function outputs 'bar'. The variable foo is in the print statement.
