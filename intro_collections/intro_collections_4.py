@@ -1,0 +1,1 @@
+# the characters in a string have an order 
